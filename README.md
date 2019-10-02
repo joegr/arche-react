@@ -8,5 +8,7 @@ Start the backend with:
 
 And initialize the frontend with:
 
-```cd frontend
-npm start```
+```
+cd frontend
+npm start
+```
